@@ -1,0 +1,144 @@
+.container-fluid {
+  padding: 3% 15%;
+}
+.center{
+  text-align: center !important;
+}
+
+.row {
+  margin-top: 80px;
+}
+
+.nav-link{
+  cursor: pointer;
+}
+
+#title {
+  background-color: #495C83;
+  color: #fff;
+}
+
+.btn {
+  position: left;
+}
+.download-button {
+  margin: 5% 3% 5% 0;
+}
+
+.hod {
+    max-width: 100%;
+    border-radius: 7%;
+}
+
+strong {
+  color: #C8B6E2;
+}
+
+h1 {
+  /* font: Montserrat; */
+  font-family: 'Montserrat';
+  font-weight: 900;
+  font-size: 4rem;
+  line-height: 1.5;
+  text-align: left;
+}
+
+h2 {
+  font-family: "Montserrat";
+  font-weight: 700;
+  font-size: 3rem;
+  line-height: 1.5;
+}
+
+h3 {
+  color: #A8A4CE;
+  font-family: 'Montserrat';
+  font-weight: bold;
+  padding-top: 1rem;
+}
+
+h4 {
+    color: #8f8f8f;
+
+}
+
+p {
+  color: #8f8f8f;
+  font-weight: normal;
+  max-width: 90%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+a{
+  text-decoration: none;
+  color: inherit;
+}
+
+i{
+  cursor: pointer;
+}
+
+#overview {
+  margin-top: 80px;
+  background-color: #7A86B6;
+  text-align: center;
+  color: #fff;
+}
+
+.item-text {
+  text-align: center;
+}
+
+.carousel-item {
+  padding: 7% 15%;
+}
+
+.overview-text {
+  padding: 7% 15%;
+  color: #000;
+  background-color: #fff;
+  padding-bottom: 0px;
+}
+
+#features {
+}
+
+.blackTextOverride {
+  color: #000 !important;
+}
+
+.fa-solid {
+  color: #7A86B6;
+}
+.fa-solid:hover {
+  color: #495C83;
+}
+
+.test-img {
+  max-width: 10%;
+  border-radius: 100%;
+  margin: 20px;
+}
+
+#offerings {
+  text-align: center;
+  padding: 7% 15%;
+}
+
+#cta {
+  text-align: center;
+  padding: 7% 15%;
+  background-color: #495C83;
+  color: #fff;
+}
+
+
+#footer {
+  text-align: center;
+  padding: 7% 15% 3%;
+}
+
+.foot-icon {
+  padding-bottom: 10px;
+}
