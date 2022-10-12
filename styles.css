@@ -22,6 +22,12 @@
   color: #fff;
 }
 
+@media (max-width: 1028px) {
+  #title {
+    text-align: center;
+  }
+}
+
 .btn {
   position: left;
 }
@@ -44,7 +50,7 @@ h1 {
   font-weight: 900;
   font-size: 4rem;
   line-height: 1.5;
-  text-align: left;
+  /* text-align: left; */
 }
 
 h2 {
